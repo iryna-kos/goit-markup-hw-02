@@ -184,13 +184,12 @@ text-decoration: none;
     line-height: 1.63;
     letter-spacing: 0.03em;
     color: #212121;
-    background-color: #F5F4FA;
 }
 
 
 .filter-list-item:hover,
 .filter-list-item:focus {
-    color: #ffffff;
+    color: #F5F4FA;
     background-color: #2196F3;
 }
 
